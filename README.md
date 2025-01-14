@@ -1,2 +1,2 @@
-# Medical-CahtBot
-Creating medical chatBot using LLama2
+# Custom-CahtBot
+Creating custom chatBot using Rak, Vactor databaes and many moor
